@@ -62,6 +62,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [BirdIQ](https://birdiq.io/) — Twitter analytics and follower insights.
 - [Twarc](https://github.com/DocNow/twarc) — Command-line tool and Python library for collecting Twitter data.
 - [Twitter Archive Parser](https://github.com/DocNow/twitter-archive-parser) — Extract and analyze data from Twitter archive files.
+- - [XTapDown](https://xtapdown.com) — Free X (Twitter) creator toolkit: video/GIF/image downloader, tweet screenshot, thread reader, hashtag library across 40 niches, engagement calculator, best-time-to-post for 16 countries. No signup. Also ships as an MCP server ([xtapdown-mcp](https://github.com/farukkolip/xtapdown-mcp)).
 
 ## Communities & Forums
 
